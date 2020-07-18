@@ -17,7 +17,7 @@ Icon set that imitate look to the icons of the new apple operating system versio
 -   Xfce4
 # Install
 
-download the latest version from "Files".  
+download the latest version from ["Pling.com".](https://www.pling.com/p/1400021/#files-panel) 
 you will get a compressed file in ".tar.xz", unzip in your HOME in the folder  
 
     .icons
