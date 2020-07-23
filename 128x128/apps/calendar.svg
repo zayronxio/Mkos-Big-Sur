@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.1-dev (1:0.92.0+devel+202004260039+9758c7a)"
-   sodipodi:docname="calendar.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="xfcalendar.svg"
    id="svg6"
    version="1.1"
    viewBox="0 0 33.866666 33.866667"
    height="128"
    width="128">
+  <metadata
+     id="metadata102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs2">
     <linearGradient
@@ -25,18 +39,6 @@
          id="stop5221"
          offset="1"
          style="stop-color:#c16969;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1630"
-       inkscape:collect="always">
-      <stop
-         id="stop1626"
-         offset="0"
-         style="stop-color:#f5f9fb;stop-opacity:1" />
-      <stop
-         id="stop1628"
-         offset="1"
-         style="stop-color:#f9fafc;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="lgrad"
@@ -100,16 +102,6 @@
          stop-color="#0070e0"
          offset="100%" />
     </radialGradient>
-    <linearGradient
-       gradientTransform="matrix(0.97573206,0,0,0.97573206,-111.76604,-37.203091)"
-       gradientUnits="userSpaceOnUse"
-       y2="70.679932"
-       x2="132.21078"
-       y1="42.151531"
-       x1="132.21078"
-       id="linearGradient1632"
-       xlink:href="#linearGradient1630"
-       inkscape:collect="always" />
     <filter
        id="b"
        color-interpolation-filters="sRGB"
@@ -374,16 +366,16 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="22"
      inkscape:window-x="0"
-     inkscape:window-height="1024"
+     inkscape:window-height="1030"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="-11.291754"
-     inkscape:cx="98.325396"
+     inkscape:cx="39.575396"
      inkscape:zoom="2.8"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -606,7 +598,7 @@
        height="29.087439"
        width="29.087439"
        id="rect849"
-       style="fill:url(#linearGradient1632);fill-opacity:1;stroke-width:2.68768;stroke-linecap:round;stroke-linejoin:round" />
+       style="fill:#ffffff;fill-opacity:1;stroke-width:2.68768;stroke-linecap:round;stroke-linejoin:round" />
     <path
        sodipodi:nodetypes="sssccss"
        d="M 8.8560009,2.5185876 H 25.044534 c 3.573,0 6.44945,2.876456 6.44945,6.449453 V 10.991607 H 2.4065479 V 8.9680406 c 0,-3.572997 2.876456,-6.449453 6.449453,-6.449453 z"
