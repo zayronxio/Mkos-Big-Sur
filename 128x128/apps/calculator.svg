@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="xcalc.svg"
-   inkscape:version="1.1-dev (1:0.92.0+devel+202004260039+9758c7a)"
+   sodipodi:docname="calc.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg6"
    version="1.1"
    viewBox="0 0 33.866666 33.866667"
    height="128"
    width="128">
+  <metadata
+     id="metadata592">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <defs
      id="defs2">
     <linearGradient
@@ -2599,16 +2613,16 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="29"
      inkscape:window-x="0"
-     inkscape:window-height="1024"
+     inkscape:window-height="1026"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="11.287716"
-     inkscape:cx="22.113247"
+     inkscape:cx="-81.427388"
      inkscape:zoom="1.979899"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -2835,49 +2849,6 @@
     <g
        id="g13037"
        transform="matrix(0.26458333,0,0,0.26458333,87.950943,39.026754)" />
-    <g
-       transform="translate(0,9.9257943)"
-       id="g1561">
-      <path
-         style="color:#000000;fill:none;stroke-width:0.5"
-         d="M -0.05386295,15.685776 H 41.953224"
-         id="path1557" />
-    </g>
-    <g
-       id="g1723">
-      <path
-         style="color:#000000;fill:none;stroke-width:0.4"
-         d="M -0.05386295,14.022171 H 34.214139"
-         id="path1725" />
-    </g>
-    <g
-       id="g1729">
-      <path
-         style="color:#000000;fill:none;stroke-width:0.4"
-         d="M -0.05386295,17.681981 H 34.214139"
-         id="path1731" />
-    </g>
-    <g
-       id="g1735">
-      <path
-         style="color:#000000;fill:none;stroke-width:0.4"
-         d="M -0.05386295,21.341791 H 34.214139"
-         id="path1737" />
-    </g>
-    <g
-       id="g1741">
-      <path
-         style="color:#000000;fill:none;stroke-width:0.4"
-         d="M -0.05386295,25.001603 H 34.214139"
-         id="path1743" />
-    </g>
-    <g
-       id="g1747">
-      <path
-         style="color:#000000;fill:none;stroke-width:0.4"
-         d="M -0.05386295,28.661412 H 34.214139"
-         id="path1749" />
-    </g>
     <g
        id="g7519">
       <g

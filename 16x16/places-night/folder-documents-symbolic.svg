@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   sodipodi:docname="folder-documents-symbolic.svg"
+   sodipodi:docname="folder-documents.svg"
    version="1.1"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   height="36"
-   width="36">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   height="16"
+   width="16">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -28,7 +28,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="13.904038"
+     inkscape:cy="11.091894"
      pagecolor="#ffffff"
      borderopacity="1"
      showborder="true"
@@ -44,17 +44,17 @@
      bordercolor="#666666"
      objecttolerance="10"
      id="namedview88"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-maximized="1"
      inkscape:window-x="0"
      inkscape:snap-global="true"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      gridtolerance="10"
-     inkscape:window-height="1031"
+     inkscape:window-height="1023"
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer13"
-     inkscape:zoom="5.656854"
-     inkscape:cx="-47.1924"
+     inkscape:zoom="4"
+     inkscape:cx="4.3896829"
      inkscape:snap-grids="true"
      inkscape:pageopacity="1">
     <inkscape:grid
@@ -68,6 +68,19 @@
        visible="true"
        originx="0"
        originy="0" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid823" />
+    <sodipodi:guide
+       position="5.4911261,13"
+       orientation="1,0"
+       id="guide885"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10,8.5073785"
+       orientation="0,1"
+       id="guide887"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -75,60 +88,62 @@
      id="defs7386" />
   <g
      inkscape:label="status"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer9"
      style="display:inline" />
   <g
      inkscape:label="devices"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer10" />
   <g
      inkscape:label="apps"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer11" />
   <g
      inkscape:label="actions"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer12" />
   <g
      inkscape:label="places"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer13">
     <path
+       style="opacity:1;fill:#135add;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16847827"
+       d="m 445.49113,179 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 5 c 1.108,0 2,-0.39938 2,-1.50738 v -6 L 447.98225,179 Z m 0,1 h 2 l 4,4 v 5 c 0,0.554 -0.446,1 -1,1 h -5 c -0.554,0 -1,-0.446 -1,-1 v -8 c 0,-0.554 0.446,-1 1,-1 z"
+       id="rect878"
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#edf4f7;fill-opacity:0.85931557;stroke:none"
-       d="m 444,163 0,6 0,22 12,0 10,0 0,-16 0,-1.79883 L 455.79883,163 454,163 l -10,0 z m 2,2 5.9375,0 c 1.18519,0 2.0625,1.04156 2.0625,2.375 l 0,7.625 8.03516,0 c 0.9857,0 1.96484,1.2186 1.96484,2.11914 L 464,189 l -8,0 -10,0 0,-19.79883 L 446,165 Z m 10,1.20117 L 462.79883,173 456,173 l 0,-6.79883 z"
-       id="rect4156" />
+       sodipodi:nodetypes="ssssssccssccssssss" />
     <path
-       style="opacity:1;fill:#edf4f7;fill-opacity:0.85931557;stroke:none"
-       d="m 454,157 0,6 1.79883,0 L 456,163.20117 456,159 l 5.9375,0 c 1.18519,0 2.0625,1.04156 2.0625,2.375 l 0,7.625 8.03437,0 c 0.9857,0 1.96563,1.21771 1.96563,2.11825 L 474,183 l -8,0 0,2 10,0 0,-16 0,-1.79883 L 465.79883,157 464,157 Z m 12,3.20117 L 472.79883,167 466,167 Z"
-       id="path4181"
+       style="fill:#135add;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 448.49113,181 v 2 h 2 l 1,1 h -4 v -4 z"
+       id="path889"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccc" />
     <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#e8f1f5;fill-opacity:0.58935362;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 446,165 0,24 18,0 0,-14 -10,0 0,-10 -8,0 z"
-       id="path4186" />
+       style="opacity:1;fill:#135add;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.16847827"
+       d="M 7 1 C 5.892 1 5 1.892 5 3 L 6 3 C 6 2.446 6.446 2 7 2 L 9 2 L 13 6 L 13 11 C 13 11.554 12.554 12 12 12 L 10 12 L 10 13 L 12 13 C 13.108 13 14 12.600187 14 11.492188 L 14 5.4921875 L 9.4902344 1 L 7 1 z "
+       transform="translate(442,176)"
+       id="path891" />
     <path
+       sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#e8f1f5;fill-opacity:0.56653994;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 456,159 0,4.20117 10,10 0,1.79883 0,8 8,0 0,-11.88086 C 474,170.21859 473.02085,169 472.03516,169 L 464,169 l 0,-7.625 C 464,160.04156 463.12269,159 461.9375,159 L 456,159 Z"
-       id="path4191" />
+       id="path893"
+       d="m 452,179 v 2 h 2 l 1,1 h -4 v -4 z"
+       style="fill:#135add;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
      inkscape:label="mimetypes"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer14" />
   <g
      inkscape:label="emblems"
-     transform="translate(-442,-156)"
+     transform="translate(-442,-176)"
      inkscape:groupmode="layer"
      id="layer15"
      style="display:inline" />
