@@ -157,7 +157,8 @@ Type=Fixed
 
 [24x24@2x/panel]
 Context=Status
-MinSize=25
+Size=24
+MinSize=8
 MaxSize=512
 Type=Scalable
 
