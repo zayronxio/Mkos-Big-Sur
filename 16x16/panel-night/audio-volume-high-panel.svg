@@ -19,7 +19,7 @@
    sodipodi:docname="audio-volume-high-panel.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#f1f8f8"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -119,7 +119,7 @@
        id="linearGradient3587-6-5-3">
       <stop
          id="stop3589-9-2-0"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#f1f8f8;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3591-7-4-7"
@@ -178,43 +178,28 @@
          style="stop-color:#a0d5ff;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <mask
-       id="m">
-      <rect
-         id="rect7"
-         style="fill:white"
-         height="16"
-         width="16"
-         y="0"
-         x="0" />
-      <text
-         id="text9"
-         style="font-weight:500;font-size:9px;line-height:0%;font-family:'Open Sans';fill:#000000"
-         y="11.5"
-         x="2.5">Ak</text>
-    </mask>
   </defs>
   <rect
-     style="opacity:0;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     style="opacity:0;fill:#f1f8f8;fill-opacity:0;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
      id="rect863"
      width="24"
      height="24"
      x="0"
      y="-8" />
   <path
-     style="fill:#f2f2f2;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     style="fill:#f1f8f8;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 2,6 H 5 L 8,3 V 13 L 5,10 H 2 C 1,10 1,10 1,9 V 7 C 1,6 1,6 2,6 Z"
      id="path844"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccc" />
   <path
-     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#f1f8f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 9,11 C 11,9 11,7 9,5 V 4 c 3,2 3,6 0,8 z"
      id="path846"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#f1f8f8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 11,3 c 2.79661,3.6271186 2.79661,6.4067797 0,10 v 1 c 3.881356,-3.855932 3.881356,-8.1456251 0,-12 z"
      id="path848"
      inkscape:connector-curvature="0"
