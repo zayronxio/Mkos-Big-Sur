@@ -15,7 +15,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="audio-volume-overamplified-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -27,12 +27,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1019"
      id="namedview10"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="12.570882"
-     inkscape:cy="8.2633159"
+     inkscape:zoom="41.7193"
+     inkscape:cx="1.0061125"
+     inkscape:cy="8.0453447"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -43,14 +43,24 @@
        type="xygrid"
        id="grid836" />
     <sodipodi:guide
-       position="13.79661,8"
-       orientation="1,0"
-       id="guide850"
+       position="6.440678,10.474576"
+       orientation="0,1"
+       id="guide854"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="14.881356,8"
-       orientation="1,0"
-       id="guide871"
+       position="6,5.5254237"
+       orientation="0,1"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="6,12"
+       orientation="0,1"
+       id="guide858"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7,4"
+       orientation="0,1"
+       id="guide860"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -186,28 +196,41 @@
      height="24"
      x="0"
      y="-8" />
+  <rect
+     style="opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:4.53543329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.00784314"
+     id="rect849"
+     width="5"
+     height="6"
+     x="2"
+     y="5"
+     rx="1"
+     ry="1" />
   <path
      style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 0.915254,6 h 3 l 3,-3 v 10 l -3,-3 h -3 c -1,0 -1,0 -1,-1 V 7 c 0,-1 0,-1 1,-1 z"
-     id="path844"
+     d="M 5,5 8,3 C 8.3360672,2.7639527 9,3 9,4 v 8 c 0,1.289593 -0.592097,1.182555 -1,1 L 5,11 Z"
+     id="path851"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
-  <path
-     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 7.915254,11 c 2,-2 2,-4 0,-6 V 4 c 3,2 3,6 0,8 z"
-     id="path846"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 9.915254,3 c 2.79661,3.6271186 2.79661,6.4067797 0,10 v 1 c 3.881356,-3.855932 3.881356,-8.1456251 0,-12 z"
-     id="path848"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="path838"
-     d="m 13,2 c 2.467702,4 2.449901,7.7457627 0,12 v 1 C 16.639044,11 16.49784,5 13,1 Z"
-     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     sodipodi:nodetypes="ccccccc" />
+  <g
+     id="g866">
+    <path
+       inkscape:connector-curvature="0"
+       id="path840"
+       d="m 11.479696,5.5610912 c 0.136551,0.7925128 0.207705,1.6074012 0.207705,2.4389084 0,0.8610793 -0.0763,1.7043365 -0.222522,2.5233784"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#202020;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="csc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="circle842"
+       d="M 13.541649,4.0564306 C 13.841374,5.322221 14,6.642586 14,8 c 0,1.4138845 -0.172098,2.787573 -0.496489,4.101261"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#202020;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="csc" />
+  </g>
+  <ellipse
+     style="opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path842"
+     cx="15.5"
+     cy="7.8090172"
+     rx="0.5"
+     ry="0.809017" />
 </svg>

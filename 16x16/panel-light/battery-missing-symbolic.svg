@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
@@ -14,7 +15,7 @@
    height="16"
    width="16"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="battery-missing-symbolic.svg">
   <sodipodi:namedview
      pagecolor="#a1a1a1"
@@ -25,17 +26,40 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
      id="namedview11"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="4.3154136"
-     inkscape:cy="10.397301"
+     inkscape:cx="10.052295"
+     inkscape:cy="1.8467435"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+     inkscape:current-layer="svg7384"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843"
+       spacingx="0.5"
+       spacingy="0.5" />
+    <sodipodi:guide
+       position="0.25411649,11.5"
+       orientation="1,0"
+       id="guide920"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.25411649,11.247417"
+       orientation="0,1"
+       id="guide922"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0.4609375,2.75"
+       orientation="0,1"
+       id="guide928"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -60,27 +84,462 @@
          in2="BackgroundImage"
          mode="darken" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-5">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-4" />
+    </filter>
+    <filter
+       id="filter7554-6"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6" />
+    </filter>
+    <linearGradient
+       x1="8.9254236"
+       y1="5.9997859"
+       x2="8.9254236"
+       y2="19"
+       id="linearGradient2868"
+       xlink:href="#linearGradient3678"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1,-2)" />
+    <linearGradient
+       id="linearGradient3678">
+      <stop
+         id="stop3680"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3682"
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="9"
+       y1="3"
+       x2="9"
+       y2="21"
+       id="linearGradient2393"
+       xlink:href="#linearGradient3678"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2,-1)" />
+    <linearGradient
+       gradientTransform="translate(-1.0001235,-5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5-3"
+       id="linearGradient2398"
+       y2="21"
+       x2="14"
+       y1="3"
+       x1="14" />
+    <linearGradient
+       id="linearGradient3587-6-5-3">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop3589-9-2-0" />
+      <stop
+         offset="1"
+         style="stop-color:#363636;stop-opacity:1"
+         id="stop3591-7-4-7" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-52.096803,-11.363826)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5-3"
+       id="linearGradient2395"
+       y2="27.363825"
+       x2="66.09668"
+       y1="9.3638258"
+       x1="66.09668" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5-3"
+       id="linearGradient7390"
+       y2="13.496136"
+       x2="4.9554448"
+       y1="2.6841583"
+       x1="4.9554448" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5-3"
+       id="linearGradient7392"
+       y2="11.649005"
+       x2="7.9109159"
+       y1="4.5762329"
+       x1="7.9109159" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5-3"
+       id="linearGradient7394"
+       y2="13.317288"
+       x2="10.186814"
+       y1="2.7742527"
+       x1="10.186814" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5-3"
+       id="linearGradient7396"
+       y2="15.183488"
+       x2="13.917011"
+       y1="0.88217813"
+       x1="13.917011" />
+    <linearGradient
+       id="linearGradient5263">
+      <stop
+         offset="0"
+         style="stop-color:#a0d5ff;stop-opacity:1"
+         id="stop5265" />
+      <stop
+         offset="1"
+         style="stop-color:#a0d5ff;stop-opacity:1"
+         id="stop5267" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-7">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-35">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-35" />
+    </filter>
+    <filter
+       id="filter7554-5-9"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-5"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-3">
+      <feBlend
+         id="feBlend7556-6-2"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-2"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-9"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-29"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-3"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-0"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-5"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-3"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-48"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-5-3">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-4-4" />
+    </filter>
+    <filter
+       id="filter7554-6-8"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-7-7">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-0-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-61">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-98" />
+    </filter>
+    <filter
+       id="filter7554-5-8"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-6"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-84">
+      <feBlend
+         id="feBlend7556-6-1"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7-71"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-0-3"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-35-2"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-35-1"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-5-9-1">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-4-5-9" />
+    </filter>
+    <filter
+       id="filter7554-6-3-8"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6-2-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-2-7">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-9-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-29-9">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-3-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-0-9">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-5-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-3-6">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-48-5" />
+    </filter>
+    <filter
+       id="filter7554-5-3-1"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-4-5"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-8-6">
+      <feBlend
+         id="feBlend7556-6-4-2"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7-7-1"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-0-2-4"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-22">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-01" />
+    </filter>
+    <filter
+       id="filter7554-5-6"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-2"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-6">
+      <feBlend
+         id="feBlend7556-6-16"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7-6"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-0-1"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-35-9"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-35-4"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-5-9-0">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-4-5-1" />
+    </filter>
+    <filter
+       id="filter7554-6-3-7"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6-2-3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-2-0">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-9-3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-29-5">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-3-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-0-4">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-5-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-3-8">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-48-4" />
+    </filter>
+    <filter
+       id="filter7554-5-3-0"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-4-4-0"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-6-8-64">
+      <feBlend
+         id="feBlend7556-6-4-9"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+    <filter
+       id="filter7554-7-7-9"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556-0-2-0"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
   </defs>
   <g
-     style="fill:#ffffff;fill-opacity:1"
-     id="g4250"
-     transform="matrix(0.52112417,0,0,0.52112417,20.767536,5.3452696)">
-    <path
-       style="fill:#555555;fill-opacity:1"
-       d="M 1.6035156 3.90625 C 1.2699962 3.90625 1 4.1772302 1 4.5097656 L 1 11.490234 C 1 11.824258 1.2699962 12.09375 1.6035156 12.09375 L 13.318359 12.09375 C 13.652352 12.09375 13.921875 11.823755 13.921875 11.490234 L 13.921875 10.251953 L 14.396484 10.251953 C 14.730488 10.251953 15 9.9834201 15 9.6484375 L 15 6.4042969 C 15.000521 6.0702975 14.730485 5.7988281 14.396484 5.7988281 L 13.921875 5.7988281 L 13.921875 4.5097656 C 13.921875 4.1772302 13.652378 3.90625 13.318359 3.90625 L 1.6035156 3.90625 z M 7.1953125 5 C 7.6885375 5 8.0894944 5.1467702 8.3984375 5.4394531 C 8.7073806 5.726716 8.8613281 6.0950574 8.8613281 6.5449219 C 8.8613281 6.7400438 8.8100123 6.9381298 8.7070312 7.1386719 C 8.6040502 7.3392139 8.5129414 7.4816385 8.4316406 7.5683594 C 8.3557599 7.6496602 8.2463902 7.7566375 8.1054688 7.8867188 L 8.0664062 7.9277344 C 7.7357829 8.2258374 7.5703125 8.5222095 7.5703125 8.8203125 L 7.5703125 9.1464844 L 6.8046875 9.1464844 L 6.8046875 8.7636719 C 6.8046875 8.5197695 6.8560033 8.3121136 6.9589844 8.1386719 C 7.0619654 7.9598101 7.2437436 7.7502012 7.5039062 7.5117188 C 7.6502477 7.3762174 7.7528794 7.2759782 7.8125 7.2109375 C 7.8775407 7.1404768 7.9403794 7.0469755 8 6.9277344 C 8.0650406 6.8030731 8.0976562 6.6750032 8.0976562 6.5449219 C 8.0976562 6.2955994 8.0161173 6.0951209 7.8535156 5.9433594 C 7.6963341 5.7915978 7.4771553 5.7148437 7.1953125 5.7148438 C 6.7291878 5.7148438 6.4097699 5.9757685 6.2363281 6.4960938 L 5.5371094 6.203125 C 5.6509305 5.8941819 5.8466241 5.6169493 6.1230469 5.3730469 C 6.4048897 5.1237243 6.7617082 5 7.1953125 5 z M 7.1875 9.8945312 C 7.3446816 9.8945312 7.475144 9.9482396 7.578125 10.056641 C 7.6865261 10.165042 7.7402344 10.295504 7.7402344 10.447266 C 7.7402344 10.599027 7.6865261 10.729489 7.578125 10.837891 C 7.475144 10.946291 7.3446816 11 7.1875 11 C 7.0303184 11 6.8974636 10.946291 6.7890625 10.837891 C 6.6860814 10.729489 6.6347656 10.599027 6.6347656 10.447266 C 6.6347656 10.295504 6.6860814 10.165042 6.7890625 10.056641 C 6.8974636 9.9482396 7.0303184 9.8945312 7.1875 9.8945312 z "
-       transform="matrix(1.9189285,0,0,1.9189285,-39.851416,-10.25719)"
-       id="path4359" />
-    <g
-       style="fill:#ffffff;fill-opacity:1"
-       transform="matrix(0.02205965,0,0,0.02205965,-29.900002,-0.39149138)"
-       id="g3-9">
-      <g
-         style="fill:#ffffff;fill-opacity:1"
-         id="g5-4" />
-    </g>
-  </g>
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1;enable-background:new"
+     id="g908"
+     transform="translate(-1,-9)" />
+  <path
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 15,7.5 c 1.404731,0.3052974 1.102084,2.92722 0,3 z"
+     id="path932"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#202020;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="m 15,7.5 h -0.5 v 3 H 15 Z"
+     id="path936"
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:4.53543329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.00784314"
+     d="M 2 4.5 C 0.892 4.5 0 5.392 0 6.5 L 0 11.5 C 0 12.608 0.892 13.5 2 13.5 L 12 13.5 C 13.108 13.5 14 12.608 14 11.5 L 14 6.5 C 14 5.392 13.108 4.5 12 4.5 L 2 4.5 z M 2.5 5.5 L 11.5 5.5 C 12.331 5.5 13 6.169 13 7 L 13 11 C 13 11.831 12.331 12.5 11.5 12.5 L 2.5 12.5 C 1.669 12.5 1 11.831 1 11 L 1 7 C 1 6.169 1.669 5.5 2.5 5.5 z "
+     id="rect925" />
   <g
-     style="font-style:normal;font-weight:normal;font-size:11.59667683px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="text4361"
-     transform="matrix(0.70106994,0,0,0.70106994,9.9402527,3.2870368)" />
+     aria-label="?"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.2810111px;line-height:1.25;font-family:C059;-inkscape-font-specification:C059;letter-spacing:0px;word-spacing:0px;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.18202528"
+     id="text1769">
+    <path
+       d="M 6.9927192,10.319703 C 6.9854382,9.6061636 7.0655293,9.4095763 7.531514,9.0091207 8.2450531,8.3829537 8.4052353,8.1281183 8.4052353,7.6184475 c 0,-0.7572251 -0.5606378,-1.2668959 -1.3906731,-1.2668959 -0.8300353,0 -1.4197972,0.4514227 -1.4197972,1.0775897 0,0.3203644 0.2038683,0.5606378 0.4805468,0.5606378 0.2257113,0 0.4077366,-0.1747443 0.4077366,-0.4004556 0,-0.1456202 -0.07281,-0.2693974 -0.2111493,-0.3858936 C 6.1626839,7.1160578 6.1554029,7.1014958 6.1554029,7.0432477 c 0,-0.1893063 0.3130835,-0.3640506 0.669853,-0.3640506 0.5169518,0 0.8154733,0.3276455 0.8154733,0.8955644 0,0.2985214 -0.080091,0.5751999 -0.2329924,0.7790682 C 6.868942,9.0964928 6.868942,9.0964928 6.7742888,9.3513282 6.7014787,9.5551965 6.6723547,9.7372218 6.6723547,10.08671 v 0.232993 z m -0.1747443,0.589762 c -0.2548354,0 -0.4587037,0.203868 -0.4587037,0.451422 0,0.254836 0.2038683,0.458704 0.4514227,0.458704 0.2548354,0 0.4587037,-0.203868 0.4587037,-0.458704 0,-0.247554 -0.2038683,-0.451422 -0.4514227,-0.451422 z"
+       style="fill:#202020;fill-opacity:1;stroke-width:0.18202528"
+       id="path1771" />
+  </g>
 </svg>
