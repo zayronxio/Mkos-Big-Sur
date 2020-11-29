@@ -9,11 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
    height="16"
-   viewBox="0 0 12 12"
    version="1.1"
-   id="svg5"
-   sodipodi:docname="weather-clear-night-310.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   id="svg7"
+   sodipodi:docname="weather-clear-night.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -26,8 +25,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs9" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,54 +34,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview7"
-     showgrid="true"
-     inkscape:zoom="8"
-     inkscape:cx="4.6947059"
-     inkscape:cy="3.1745478"
+     inkscape:window-width="793"
+     inkscape:window-height="480"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="1.0847458"
+     inkscape:cy="8"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
-     units="px"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid816" />
-    <sodipodi:guide
-       position="4.5,9.524968"
-       orientation="0,1"
-       id="guide826"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="9.2695407,2.8838571"
-       orientation="0,1"
-       id="guide828"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="3.551264,6.8388611"
-       orientation="0,1"
-       id="guide820"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="7.7578125,2.6074219"
-       orientation="0,1"
-       id="guide822"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="6,1.3589708"
-       orientation="1,0"
-       id="guide824"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }
+  </style>
+  </defs>
   <path
-     style="fill:#000000;fill-opacity:1;stroke-width:0.42669651;stroke-miterlimit:4;stroke-dasharray:none"
-     d="m 6.015625,3.3183594 c -2.1794532,0.8291145 -3.6203397,2.9181667 -3.6210938,5.25 0.001,3.1026336 2.5028351,5.6197536 5.6054688,5.6196796 1.6751457,-2.64e-4 3.276492,-0.750403 4.34375,-2.041555 -0.638538,0.244343 -1.316309,0.37596 -2,0.376953 C 7.2403538,12.523511 4.734945,9.9849147 4.7350187,6.8815185 4.7358234,5.5743183 5.1819543,4.325219 6.015625,3.3183594 Z"
-     transform="scale(0.75)"
-     id="path822"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     d="m7.784 2c-2.3712 0.087535-4.5561 1.549-5.4169 3.9159-1.1354 3.1178 0.44883 6.5891 3.5666 7.7237 2.3669 0.86162 4.926 0.12444 6.5171-1.6357a5.5593 5.5593 0 0 1-3.6215-0.054066c-2.8947-1.0539-4.3785-4.2652-3.3246-7.1607 0.44111-1.2118 1.265-2.1523 2.2793-2.7891z"
+     style="fill:#202020;fill-opacity:1"
+     class="ColorScheme-Text"
+     id="path5" />
 </svg>
