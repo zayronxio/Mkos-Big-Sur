@@ -14,7 +14,7 @@
    width="24"
    height="24"
    id="svg3942"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="onboard-panel.svg">
   <sodipodi:namedview
      pagecolor="#959595"
@@ -25,16 +25,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      id="namedview40"
      showgrid="true"
      showguides="false"
      inkscape:zoom="9.3544333"
-     inkscape:cx="-31.909575"
+     inkscape:cx="-49.815523"
      inkscape:cy="10.565593"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3942">
     <inkscape:grid
@@ -174,11 +174,11 @@
        id="linearGradient4549">
       <stop
          id="stop4551"
-         style="stop-color:#000000;stop-opacity:0.27205881"
+         style="stop-color:#f5f5f5;stop-opacity:0.27205881"
          offset="0" />
       <stop
          id="stop4553"
-         style="stop-color:#000000;stop-opacity:0.36764705"
+         style="stop-color:#f5f5f5;stop-opacity:0.36764705"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -253,25 +253,25 @@
   <g
      id="g4611"
      transform="matrix(0.90331158,0,0,0.90331158,61.834524,0.98348401)"
-     style="fill:#555555;fill-opacity:1">
+     style="fill:#f5f5f5;fill-opacity:1">
     <g
        transform="matrix(1.4760503,0,0,1.4760503,-65.058235,-5.2216947)"
        id="g4189-9"
-       style="fill:#555555;fill-opacity:1">
+       style="fill:#f5f5f5;fill-opacity:1">
       <g
          id="g3-02"
          transform="matrix(0.15,0,0,0.15,0.7,5.8)"
-         style="fill:#555555;fill-opacity:1">
+         style="fill:#f5f5f5;fill-opacity:1">
         <path
            d="m 64,48 0,0 -8,0 0,-16 8,0 C 72.836,32 80,24.836 80,16 80,7.164 72.836,0 64,0 55.163,0 48,7.164 48,16 l 0,8 -16,0 0,-8 C 32,7.164 24.836,0 16,0 7.164,0 0,7.164 0,16 0,24.836 7.164,32 16,32 l 8,0 0,16 -8,0 0,0 0,0 C 7.164,48 0,55.164 0,64 c 0,8.836 7.164,16 16,16 8.837,0 16,-7.164 16,-16 l 0,0 0,-8 16,0 0,7.98 c 0,0.008 -10e-4,0.014 -10e-4,0.02 0,8.836 7.164,16 16,16 8.836,0 16,-7.164 16,-16 C 79.999,55.164 72.836,48.002 64,48 Z M 64,8 c 4.418,0 8,3.582 8,8 0,4.418 -3.582,8 -8,8 l -8,0 0,-8 c 0,-4.418 3.582,-8 8,-8 z M 8,16 c 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 l 0,8 -8,0 C 11.582,24 8,20.417 8,16 Z m 8,56 c -4.418,0 -8,-3.582 -8,-8 0,-4.418 3.582,-8 8,-8 l 0,0 8,0 0,8 c 0,4.418 -3.582,8 -8,8 z m 16,-24 0,-16 16,0 0,16 -16,0 z m 32,24 c -4.418,0 -8,-3.582 -8,-8 l 0,0 0,-8 7.999,0 c 4.418,0 8,3.582 8,8 0,4.418 -3.581,8 -7.999,8 z"
            id="path5-4-6"
            inkscape:connector-curvature="0"
-           style="fill:#555555;fill-opacity:1" />
+           style="fill:#f5f5f5;fill-opacity:1" />
       </g>
       <g
          transform="matrix(0,-0.01767935,0.01767935,0,61.030474,39.728978)"
          id="g3-0-1"
-         style="fill:#555555;fill-opacity:1" />
+         style="fill:#f5f5f5;fill-opacity:1" />
     </g>
   </g>
 </svg>
