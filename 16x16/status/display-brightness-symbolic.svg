@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,8 +12,8 @@
    width="16"
    height="16"
    viewBox="0 0 16 16"
-   sodipodi:docname="display-brightness-symbolic.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   sodipodi:docname="brightness-display-symbolic.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -40,24 +38,104 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="941"
      id="namedview4"
      showgrid="true"
-     inkscape:zoom="29.5"
-     inkscape:cx="7.7268887"
-     inkscape:cy="10.845453"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.2021559"
+     inkscape:cy="9.6684194"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid817"
-       spacingx="0.25"
-       spacingy="0.25" />
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
-  <path
-     style="opacity:1;fill:#131111;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 7.75 2 L 7.75 4.5 L 8.25 4.5 L 8.25 2 L 7.75 2 z M 3.8535156 3.5 L 3.5 3.8535156 L 5.2675781 5.6210938 L 5.6210938 5.2675781 L 3.8535156 3.5 z M 12 3.5 L 10.232422 5.2675781 L 10.585938 5.6210938 L 12.353516 3.8535156 L 12 3.5 z M 8 5 A 3 3 0 0 0 5 8 A 3 3 0 0 0 8 11 A 3 3 0 0 0 11 8 A 3 3 0 0 0 8 5 z M 8.0117188 5.9824219 A 2.0292263 2.0292263 0 0 1 10.041016 8.0117188 A 2.0292263 2.0292263 0 0 1 8.0117188 10.041016 A 2.0292263 2.0292263 0 0 1 5.9824219 8.0117188 A 2.0292263 2.0292263 0 0 1 8.0117188 5.9824219 z M 2 7.75 L 2 8.25 L 4.5 8.25 L 4.5 7.75 L 2 7.75 z M 11.5 7.75 L 11.5 8.25 L 14 8.25 L 14 7.75 L 11.5 7.75 z M 5.2675781 10.378906 L 3.5 12.146484 L 3.8535156 12.5 L 5.6210938 10.732422 L 5.2675781 10.378906 z M 10.732422 10.378906 L 10.378906 10.732422 L 12.146484 12.5 L 12.5 12.146484 L 10.732422 10.378906 z M 7.75 11.5 L 7.75 14 L 8.25 14 L 8.25 11.5 L 7.75 11.5 z "
-     id="path819" />
+  <ellipse
+     style="opacity:1;fill:#f5f5f5;stroke-width:0.747454;fill-opacity:1"
+     id="path831"
+     cx="8.0105047"
+     cy="8.0086908"
+     rx="4.0077391"
+     ry="4.0165114" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect833"
+     width="2"
+     height="3"
+     x="7"
+     y="0"
+     rx="1"
+     ry="1" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect837"
+     width="3"
+     height="2"
+     x="13"
+     y="7"
+     rx="1"
+     ry="1" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect841"
+     width="2"
+     height="3"
+     x="7"
+     y="13"
+     rx="1"
+     ry="1" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect845"
+     width="3"
+     height="2"
+     x="0"
+     y="7"
+     rx="1"
+     ry="1" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect853"
+     width="2"
+     height="3"
+     x="-1"
+     y="3.3137085"
+     rx="1"
+     ry="1"
+     transform="rotate(-45)" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect855"
+     width="3"
+     height="2"
+     x="5"
+     y="10.313708"
+     rx="1"
+     ry="1"
+     transform="rotate(-45)" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect857"
+     width="2"
+     height="3"
+     x="-1"
+     y="16.313709"
+     rx="1"
+     ry="1"
+     transform="rotate(-45)" />
+  <rect
+     style="opacity:1;fill:#f5f5f5;fill-opacity:1"
+     id="rect859"
+     width="3"
+     height="2"
+     x="-8"
+     y="10.313708"
+     rx="1"
+     ry="1"
+     transform="rotate(-45)" />
 </svg>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -18,7 +16,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,8 +25,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="svg7384"
-     inkscape:cx="3.4596338"
-     inkscape:cy="20.832447"
+     inkscape:cx="22.118573"
+     inkscape:cy="33.477125"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -40,7 +38,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -57,12 +55,13 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1333"
+     inkscape:window-height="941"
      inkscape:window-maximized="1"
-     inkscape:window-width="2560"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="55"
-     inkscape:zoom="11.313709">
+     inkscape:window-y="27"
+     inkscape:zoom="5.6568543"
+     inkscape:document-rotation="0">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -72,13 +71,24 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-123.99739px"
-       originy="-652.00336px"
+       originx="-123.99739"
+       originy="-652.00336"
        snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid834" />
+    <sodipodi:guide
+       position="7.3433147,10.512276"
+       orientation="0,-1"
+       id="guide864" />
+    <sodipodi:guide
+       position="9.4921875,6.3840389"
+       orientation="1,0"
+       id="guide866" />
   </sodipodi:namedview>
   <metadata
      id="metadata90">
@@ -106,8 +116,7 @@
     </linearGradient>
   </defs>
   <path
-     inkscape:connector-curvature="0"
-     d="m 7.9999997,0.9999997 c -0.738306,0.728548 -1.442704,1.5656639 -2.1931326,2.2813872 l -2.5254799,0 0,2.5254799 C 2.5655293,6.5573245 1.7286441,7.2616747 1,7.9999999 1.7286057,8.7383635 2.5655774,9.4726605 3.2813872,10.223176 l 0,2.497321 2.5254799,0 C 6.5573247,13.436355 7.2616747,14.271356 7.9999997,15 c 0.738364,-0.728606 1.472661,-1.563693 2.2231763,-2.279503 l 2.495437,-0.0019 0,-2.495437 C 13.434471,9.4726701 14.271356,8.7382866 15,7.9999614 14.271395,7.2615978 13.434423,6.5573341 12.718613,5.8068283 l 0,-2.5273642 -2.495437,0.00192 C 9.4727087,2.565529 8.7383247,1.7286438 7.9999997,0.9999997 Z m 0,3.3009621 2.4635203,3.6952791 -0.06009,0 -1.4420603,0 0,3.9055791 -1.922747,-0.03 0,-3.8755361 -1.4420601,0 -0.060086,0 C 6.6575535,6.3596371 7.6949425,4.7700927 7.9999955,4.3010098 Z"
-     id="path6775"
-     style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none;enable-background:new" />
+     id="path836"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:1.07766"
+     d="M 8.0058594 0.99609375 C 4.1375838 0.99579188 1.0016513 4.1317244 1.0019531 8 C 1.0016514 11.868276 4.1375838 15.004208 8.0058594 15.003906 C 11.874135 15.004208 15.010068 11.868276 15.009766 8 C 15.010068 4.1317242 11.874135 0.99579172 8.0058594 0.99609375 z M 7 1.5449219 L 9.4921875 3.4980469 L 7.0019531 5.4882812 L 7 4.1269531 C 5.2351148 4.5831182 4.0021237 6.1751628 4.0019531 7.9980469 C 4.0014943 9.4036024 4.7298873 10.634257 5.8261719 11.347656 L 5.4042969 12.193359 C 3.9975302 11.320523 3.0525945 9.7752619 3.0527344 7.9980469 C 3.052998 5.6512873 4.7016588 3.6274323 7 3.1523438 L 7 1.5449219 z M 10.966797 4.0351562 L 10.96875 4.0351562 C 12.217099 4.9699985 12.951731 6.4385375 12.951172 7.9980469 C 12.951332 10.03891 11.710924 11.783816 9.9472656 12.541016 L 9.9472656 13.896484 L 7.4570312 11.90625 L 9.9492188 9.953125 L 9.9492188 11.462891 C 11.168342 10.780947 12.000489 9.4951236 12 7.9980469 C 11.999652 6.6896078 11.359184 5.4641107 10.285156 4.7167969 L 10.966797 4.0351562 z " />
 </svg>

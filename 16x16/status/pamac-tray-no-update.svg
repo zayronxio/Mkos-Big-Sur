@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -18,7 +16,7 @@
    id="svg7384"
    style="enable-background:new"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    width="16">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
@@ -27,8 +25,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="svg7384"
-     inkscape:cx="3.4596338"
-     inkscape:cy="20.832447"
+     inkscape:cx="15.335201"
+     inkscape:cy="11.550299"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -40,7 +38,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -57,12 +55,13 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1333"
+     inkscape:window-height="941"
      inkscape:window-maximized="1"
-     inkscape:window-width="2560"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="55"
-     inkscape:zoom="11.313709">
+     inkscape:window-y="27"
+     inkscape:zoom="8"
+     inkscape:document-rotation="0">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -72,13 +71,40 @@
        enabled="true"
        id="grid4866"
        opacity="0.16470588"
-       originx="-123.99739px"
-       originy="-652.00336px"
+       originx="-123.99739"
+       originy="-652.00336"
        snapvisiblegridlinesonly="true"
-       spacingx="0.25px"
-       spacingy="0.25px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid834" />
+    <sodipodi:guide
+       position="7.4999997,4.00336"
+       orientation="1,0"
+       id="guide843" />
+    <sodipodi:guide
+       position="11.254261,12.093418"
+       orientation="1,0"
+       id="guide847" />
+    <sodipodi:guide
+       position="4.00261,6.2343754"
+       orientation="0,-1"
+       id="guide849" />
+    <sodipodi:guide
+       position="4.418337,7.7229529"
+       orientation="0,-1"
+       id="guide853" />
+    <sodipodi:guide
+       position="4.418337,7.7229529"
+       orientation="1,0"
+       id="guide855" />
+    <sodipodi:guide
+       position="11.254261,11.074219"
+       orientation="0,-1"
+       id="guide857" />
   </sodipodi:namedview>
   <metadata
      id="metadata90">
@@ -106,9 +132,8 @@
     </linearGradient>
   </defs>
   <path
-     inkscape:connector-curvature="0"
-     d="m 7.9999997,0.9999997 c -0.738306,0.728548 -1.442704,1.5656639 -2.1931326,2.2813872 l -2.5254799,0 0,2.5254799 C 2.5655293,6.5573245 1.7286441,7.2616747 1,7.9999999 1.7286057,8.7383635 2.5655774,9.4726605 3.2813872,10.223176 l 0,2.497321 2.5254799,0 C 6.5573247,13.436355 7.2616747,14.271356 7.9999997,15 c 0.738364,-0.728606 1.472661,-1.563693 2.2231763,-2.279503 l 2.495437,-0.0019 0,-2.495437 C 13.434471,9.4726701 14.271356,8.7382866 15,7.9999614 14.271395,7.2615978 13.434423,6.5573341 12.718613,5.8068283 l 0,-2.5273642 -2.495437,0.00192 C 9.4727087,2.565529 8.7383247,1.7286438 7.9999997,0.9999997 Z"
-     id="path6775"
-     style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none;enable-background:new"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     id="path836"
+     style="fill:#f5f5f5;fill-opacity:1;stroke-width:1.07766"
+     d="M 8.0058594,0.99609375 C 4.1375838,0.99579188 1.0016513,4.1317244 1.0019531,8 1.0016514,11.868276 4.1375838,15.004208 8.0058594,15.003906 11.874135,15.004208 15.010068,11.868276 15.009766,8 15.010068,4.1317242 11.874135,0.99579172 8.0058594,0.99609375 Z M 10.001953,3.9960938 11.254261,4.925781 7.5,11.996094 4.0019531,9.765625 4.418337,8.2770471 7.0019531,9.9960938 Z"
+     sodipodi:nodetypes="cccccccccccc" />
 </svg>
