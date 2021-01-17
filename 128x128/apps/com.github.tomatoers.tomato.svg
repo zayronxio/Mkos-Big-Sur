@@ -14,31 +14,52 @@
    version="1.1"
    id="svg1536"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="com.github.tomatoers.tomato.svg">
+   sodipodi:docname="com.github.parnold-x.timer.svg">
   <defs
      id="defs1530">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient889">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop885" />
+      <stop
+         style="stop-color:#fcd5cf;stop-opacity:1"
+         offset="1"
+         id="stop887" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1339"
        id="linearGradient1341"
        x1="15.806754"
        y1="6.90171"
-       x2="15.295932"
-       y2="29.43173"
+       x2="16.041533"
+       y2="29.389437"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-0.08408162,-0.02904245)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1339">
       <stop
-         style="stop-color:#ff7e7e;stop-opacity:1"
+         style="stop-color:#ff8765;stop-opacity:1"
          offset="0"
          id="stop1335" />
       <stop
-         style="stop-color:#ff227c;stop-opacity:1"
+         style="stop-color:#f04732;stop-opacity:1"
          offset="1"
          id="stop1337" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient889"
+       id="linearGradient891"
+       x1="18.279282"
+       y1="18.130045"
+       x2="18.518194"
+       y2="27.540657"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,11 +76,11 @@
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
-     inkscape:window-width="1514"
-     inkscape:window-height="941"
-     inkscape:window-x="50"
+     inkscape:window-width="1920"
+     inkscape:window-height="959"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata1533">
     <rdf:RDF>
@@ -68,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -307,7 +328,7 @@
            style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0117647" />
       </g>
       <path
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.138973"
+         style="fill:url(#linearGradient891);fill-opacity:1;stroke-width:0.138973"
          d="m 15.624392,27.809192 c -2.793056,-0.594581 -5.053598,-2.771218 -5.6923542,-5.481067 -0.885695,-3.757453 1.2727052,-7.601342 4.9179792,-8.758421 1.2578,-0.399248 3.209378,-0.399248 4.467177,0 4.342029,1.378242 6.393984,6.42797 4.264876,10.49558 -0.59946,1.145253 -2.023061,2.537878 -3.163118,3.094288 -0.895356,0.436983 -2.686765,0.889851 -3.433717,0.868038 -0.213419,-0.0062 -0.825799,-0.104518 -1.360843,-0.218418 z m 7.338949,-7.337512 c 0.157999,-0.157998 0.17491,-0.346209 0.07805,-0.86858 -0.517173,-2.789053 -2.217891,-4.514616 -4.965347,-5.037884 -0.506408,-0.09645 -0.648737,-0.07238 -0.867855,0.146734 -0.245562,0.245562 -0.256437,0.435372 -0.172305,3.00754 0.05703,1.743577 0.145514,2.782695 0.242478,2.847538 0.08397,0.05616 1.352063,0.103059 2.817978,0.104229 2.146296,0.0017 2.704577,-0.03715 2.867005,-0.199577 z M 22.56323,14.408784 c -0.143733,-0.158825 -0.625405,-0.51349 -1.070381,-0.788145 -0.602866,-0.372109 -0.798524,-0.569378 -0.767756,-0.774073 0.09344,-0.62164 0.434974,-0.58221 1.581911,0.18263 1.424956,0.950237 1.371601,0.886702 1.096818,1.306073 -0.286785,0.437687 -0.494573,0.45586 -0.840592,0.07352 z m -7.008325,-2.40613 c 0,-0.238623 -0.09799,-0.356961 -0.347432,-0.419566 -0.286504,-0.07191 -0.347431,-0.171178 -0.347431,-0.566068 0,-0.331209 0.08289,-0.523227 0.268809,-0.622729 0.349621,-0.187112 3.559888,-0.187112 3.909509,0 0.185923,0.0995 0.26881,0.29152 0.26881,0.622729 0,0.39489 -0.06093,0.494159 -0.347432,0.566068 -0.249439,0.06261 -0.347432,0.180943 -0.347432,0.419566 0,0.330363 -0.0092,0.332366 -1.528701,0.332366 -1.519486,0 -1.5287,-0.002 -1.5287,-0.332366 z"
          id="path4568"
          inkscape:connector-curvature="0" />
