@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="freecad.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    id="svg6"
    version="1.1"
    viewBox="0 0 33.866666 33.866667"
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,7 +36,7 @@
        inkscape:collect="always"
        id="linearGradient2450">
       <stop
-         style="stop-color:#ff363b;stop-opacity:1"
+         style="stop-color:#ff724e;stop-opacity:1"
          offset="0"
          id="stop2446" />
       <stop
@@ -163,19 +163,19 @@
        inkscape:collect="always"
        xlink:href="#linearGradient2450"
        id="radialGradient2452"
-       cx="29.708984"
-       cy="29.262604"
-       fx="29.708984"
-       fy="29.262604"
+       cx="27.204983"
+       cy="28.394171"
+       fx="27.204983"
+       fy="28.394171"
        r="43.545899"
        gradientTransform="matrix(4.2603692,0,0,4.0932264,-96.862258,-99.72182)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
+     inkscape:window-y="24"
      inkscape:window-x="0"
-     inkscape:window-height="959"
+     inkscape:window-height="1028"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
