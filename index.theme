@@ -41,6 +41,7 @@ Type=Fixed
 
 [16x16/panel]
 Context=Status
+Size=16
 MinSize=8
 MaxSize=128
 Type=Scalable
@@ -63,6 +64,11 @@ Type=Fixed
 [24x24/places]
 Context=Places
 Size=24
+Type=Fixed
+
+[24x24/apps]
+Context=Places
+size=24
 Type=Fixed
 
 [16x16/status]
@@ -96,6 +102,7 @@ Type=Fixed
 
 [16x16@2x/places]
 Context=Places
+Size=16
 MinSize=8
 MaxSize=23
 Type=Scalable
