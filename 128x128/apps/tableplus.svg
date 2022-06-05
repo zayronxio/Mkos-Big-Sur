@@ -9,7 +9,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="tableplus.svg"
    id="svg6"
    version="1.1"
@@ -36,7 +36,7 @@
       <stop
          id="stop1626"
          offset="0"
-         style="stop-color:#ecf6f8;stop-opacity:0.89411765" />
+         style="stop-color:#ecf6f8;stop-opacity:1" />
       <stop
          id="stop1628"
          offset="1"
@@ -2337,9 +2337,9 @@
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="24"
      inkscape:window-x="0"
-     inkscape:window-height="1019"
+     inkscape:window-height="1028"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
@@ -2353,13 +2353,14 @@
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:document-rotation="0" />
   <g
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <g
-       style="opacity:0.2967651"
+       style="opacity:0.19072554"
        transform="matrix(0.97573206,0,0,0.97573206,-65.748383,-37.203094)"
        id="g1702">
       <rect

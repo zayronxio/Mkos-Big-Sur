@@ -14,7 +14,7 @@
    version="1.1"
    id="svg2117"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="maps.svg">
+   sodipodi:docname="2gis.svg">
   <defs
      id="defs2111">
     <linearGradient
@@ -421,17 +421,6 @@
          offset="1"
          stop-color="#2c3b94" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1018"
-       id="radialGradient1048"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.19075397,0,0,0.19075397,-19.999143,-0.52042276)"
-       cx="174.79846"
-       cy="118.22128"
-       fx="174.79846"
-       fy="118.22128"
-       r="58.347046" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1018">
@@ -694,6 +683,77 @@
        fx="25.950901"
        fy="7.1911535"
        r="5.5766005" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient929"
+       id="radialGradient935-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.25433658,0,0,0.25433658,-34.780762,-15.511671)"
+       cx="190.85039"
+       cy="148.92816"
+       fx="190.85039"
+       fy="148.92816"
+       r="53.835484" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient929">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop925" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.74117647;"
+         offset="0.27787876"
+         id="stop961" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.2627451;"
+         offset="0.58380306"
+         id="stop963" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21568627;"
+         offset="0.62281501"
+         id="stop967" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.17254902;"
+         offset="0.66894341"
+         id="stop971" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.13333333;"
+         offset="0.70968169"
+         id="stop975" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.09019608;"
+         offset="0.76298833"
+         id="stop979" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.06666667;"
+         offset="0.79677397"
+         id="stop977" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.03137255;"
+         offset="0.86606854"
+         id="stop981" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.02745098;"
+         offset="0.88822615"
+         id="stop947" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.02352941;"
+         offset="0.90482414"
+         id="stop983" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.01960784;"
+         offset="0.91823369"
+         id="stop987" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.01176471;"
+         offset="0.94519842"
+         id="stop991" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop927-6" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -702,19 +762,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="-147.53499"
-     inkscape:cy="-3.7533307"
+     inkscape:zoom="2.8"
+     inkscape:cx="-9.2730583"
+     inkscape:cy="98.950081"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
-     inkscape:window-width="1514"
-     inkscape:window-height="941"
-     inkscape:window-x="318"
-     inkscape:window-y="111"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2114">
     <rdf:RDF>
@@ -723,7 +783,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1135,11 +1195,11 @@
        transform="scale(0.26458333)"
        sodipodi:nodetypes="cccscscscscsssccsccccccccc" />
     <circle
-       style="opacity:0.602281;fill:url(#radialGradient1048);fill-opacity:1;stroke:none;stroke-width:1.14452;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1012"
-       cx="13.344359"
-       cy="22.030754"
-       r="11.12993" />
+       style="opacity:0.38863081;fill:url(#radialGradient935-3);fill-opacity:1;stroke:none;stroke-width:7.97178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle923"
+       cx="13.759473"
+       cy="22.366205"
+       r="13.692333" />
     <circle
        style="fill:url(#linearGradient923);fill-opacity:1;stroke:none;stroke-width:1.36642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path915"
