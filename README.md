@@ -26,7 +26,7 @@ In KDE
 ---
 In the KDE desktop environment, uncompress the ".tar.xz" file to
 
-    /home/your-username/.local/share/icons. 
+    /home/your-username/.local/share/icons
 
  
 Alternatively, you can uncompress the ".tar.xz" file in `/usr/share/icons` with root previleges (using `sudo`).
