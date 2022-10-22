@@ -17,17 +17,16 @@ Icon set that imitate look to the icons of the new apple operating system versio
 -   Xfce4
 # Install
 
-download the latest version from ["Pling.com".](https://www.pling.com/p/1400021/#files-panel) 
-you will get a compressed file in ".tar.xz", unzip in your HOME in the folder  
+In non-KDE environments
+---
+Download the latest version from ["Pling.com".](https://www.pling.com/p/1400021/#files-panel) 
+you will get a compressed file in ".tar.xz", uncompress in your HOME in the folder `.icons`. If it does not exist, create it.
 
-    .icons
+In KDE
+---
+In the KDE desktop environment, uncompress the ".tar.xz" file to
 
-If it does not exist, create it.,  
-in the KDE desktop environment the path is  
-
-    home/.local/share/icons. 
+    /home/your-username/.local/share/icons
 
  
-with root you can unzip in  
-
-    usr/share/icons.
+Alternatively, you can uncompress the ".tar.xz" file in `/usr/share/icons` with root previleges (using `sudo`).
