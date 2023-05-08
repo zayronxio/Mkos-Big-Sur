@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg1321"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="shaman.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drakstats.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1315">
     <linearGradient
@@ -499,27 +499,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4203"
-       id="linearGradient4209"
-       x1="130.72324"
-       y1="76.016953"
-       x2="154.74577"
-       y2="76.016953"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4203">
-      <stop
-         style="stop-color:#696f71;stop-opacity:1"
-         offset="0"
-         id="stop4205" />
-      <stop
-         style="stop-color:#b8bfc3;stop-opacity:1"
-         offset="1"
-         id="stop4207" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4191"
        id="linearGradient4197"
        x1="134.74577"
@@ -566,19 +545,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="66.56929"
-     inkscape:cy="76.56929"
+     inkscape:zoom="1.979899"
+     inkscape:cx="58.336309"
+     inkscape:cy="179.55461"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:window-width="1507"
-     inkscape:window-height="1056"
+     inkscape:window-height="1020"
      inkscape:window-x="403"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata1318">
     <rdf:RDF>
@@ -587,7 +567,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -904,24 +883,6 @@
          ry="0.50848001"
          style="fill:url(#linearGradient4364);paint-order:fill markers stroke"
          id="rect1217" />
-      <rect
-         x="103.74"
-         y="127.63"
-         width="3.5592999"
-         height="16.610001"
-         rx="0.50848001"
-         ry="0.50848001"
-         style="fill:url(#linearGradient4368);paint-order:fill markers stroke"
-         id="rect1219" />
-      <rect
-         x="110.01"
-         y="127.63"
-         width="3.5592999"
-         height="16.610001"
-         rx="0.50848001"
-         ry="0.50848001"
-         style="fill:url(#linearGradient4372);paint-order:fill markers stroke"
-         id="rect1221" />
     </g>
     <g
        id="g1147"
@@ -1237,12 +1198,6 @@
        transform="matrix(0.22365489,0,0,0.22365489,-16.835962,-1.028134)"
        id="g5157"
        style="fill:#252828;fill-opacity:0.334601">
-      <circle
-         r="0"
-         cy="76.016953"
-         cx="135.42374"
-         id="circle5159"
-         style="opacity:1;fill:#252828;fill-opacity:0.334601;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0304182;paint-order:fill markers stroke" />
       <path
          style="opacity:1;fill:url(#linearGradient5170);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0304182;paint-order:fill markers stroke"
          d="m 168.32627,76.067802 c 0,5.897278 -3.15029,13.177967 -19.32203,13.177967 -14.29626,0 -19.07203,-6.530689 -19.07203,-12.427967 0,-5.897277 8.65077,-8.677965 19.32203,-8.677966 10.67126,10e-7 19.07203,2.030689 19.07203,7.927966 z"
@@ -1253,12 +1208,6 @@
     <g
        id="g4211"
        transform="matrix(0.22365489,0,0,0.22365489,-13.704795,-0.58082401)">
-      <circle
-         style="opacity:1;fill:url(#linearGradient4209);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0304182;paint-order:fill markers stroke"
-         id="ellipse4199"
-         cx="135.42374"
-         cy="76.016953"
-         r="0" />
       <ellipse
          ry="10.677966"
          rx="19.322033"

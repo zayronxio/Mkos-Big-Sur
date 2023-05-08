@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg2117"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="2gis.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="maps.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2111">
     <linearGradient
@@ -688,7 +688,7 @@
        xlink:href="#linearGradient929"
        id="radialGradient935-3"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.25433658,0,0,0.25433658,-34.780762,-15.511671)"
+       gradientTransform="matrix(0.22198484,0,0,0.22198484,-28.853581,-9.9356584)"
        cx="190.85039"
        cy="148.92816"
        fx="190.85039"
@@ -763,8 +763,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="-9.2730583"
-     inkscape:cy="98.950081"
+     inkscape:cx="-8.9285714"
+     inkscape:cy="99.107143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -773,8 +773,9 @@
      inkscape:window-width="1920"
      inkscape:window-height="1028"
      inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2114">
     <rdf:RDF>
@@ -783,7 +784,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1195,11 +1195,11 @@
        transform="scale(0.26458333)"
        sodipodi:nodetypes="cccscscscscsssccsccccccccc" />
     <circle
-       style="opacity:0.38863081;fill:url(#radialGradient935-3);fill-opacity:1;stroke:none;stroke-width:7.97178;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.31553625;fill:url(#radialGradient935-3);fill-opacity:1;stroke:none;stroke-width:6.95777;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle923"
-       cx="13.759473"
-       cy="22.366205"
-       r="13.692333" />
+       cx="13.512311"
+       cy="23.124134"
+       r="11.950662" />
     <circle
        style="fill:url(#linearGradient923);fill-opacity:1;stroke:none;stroke-width:1.36642;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path915"
