@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg2117"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="flatseal.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="flatseal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2111">
     <linearGradient
@@ -98,10 +98,10 @@
     </linearGradient>
     <filter
        id="filter960"
-       x="-0.10362"
-       y="-0.11276"
-       width="1.2072001"
-       height="1.2255"
+       x="-0.1036205"
+       y="-0.1127647"
+       width="1.207241"
+       height="1.2255294"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.5975"
@@ -153,8 +153,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="118.29443"
-     inkscape:cy="53.803593"
+     inkscape:cx="118.69292"
+     inkscape:cy="53.790623"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -163,8 +163,9 @@
      inkscape:window-width="1920"
      inkscape:window-height="1030"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2114">
     <rdf:RDF>
@@ -173,7 +174,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -411,9 +411,8 @@
          id="path37" />
       <path
          d="M 34.542953,10.173149 A 32.081762,32.081762 0 0 0 2.4611896,42.254913 32.081762,32.081762 0 0 0 34.542953,74.336675 h 32.351626 l 5.392379,-5.661486 H 52.737841 A 32.081762,32.081762 0 0 0 66.626225,42.254913 32.081762,32.081762 0 0 0 34.544463,10.173149 Z m 0,18.713104 A 13.367338,13.367338 0 0 1 47.911612,42.254913 13.367338,13.367338 0 0 1 34.542953,55.623572 13.367338,13.367338 0 0 1 21.174294,42.254913 13.367338,13.367338 0 0 1 34.542953,28.886253 Z"
-         fill="url(#linearGradient944)"
-         style="fill:url(#linearGradient944);fill-opacity:1;stroke-width:2.67354;paint-order:normal"
-         id="path39" />
+         id="path39"
+         style="fill:#fafafa;fill-opacity:1" />
     </g>
   </g>
 </svg>
